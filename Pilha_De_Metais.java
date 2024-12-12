@@ -62,7 +62,7 @@ public class Pilha_De_Metais {
                 double delta_e = Math.abs(metal_1.get_potencial() - metal_2.get_potencial());
 
                 JOptionPane.showMessageDialog(null, "Metais escolhidos:\n- " + metal_1.get_nome() + "\n- " + metal_2.get_nome() +
-                    String.format("\nO potencial da pilha formada é: %.2f V", delta_e), "Resultado", JOptionPane.INFORMATION_MESSAGE);
+                    String.format("\nO potencial da pilha formada é: %.3f V", delta_e), "Resultado", JOptionPane.INFORMATION_MESSAGE);
             }
         } catch (NumberFormatException e) {
             JOptionPane.showMessageDialog(null, "Entrada inválida. Por favor, insira números válidos.", "Erro", JOptionPane.ERROR_MESSAGE);
