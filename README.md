@@ -23,7 +23,7 @@ Este repositório apresenta uma aplicação interativa desenvolvida em Java que 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/quimica.git
+   git clone https://github.com/seu-usuario/QUI_2024_Pilha.git
    ```
 
 2. **Compile o código:**
@@ -74,3 +74,9 @@ Este repositório apresenta uma aplicação interativa desenvolvida em Java que 
    ```
 
 ---
+
+## Integrantes
+
+1. Arthur Gamba Borba
+2. Marcelo Cappelaro Macedo
+3. Lucas Davy de Medeiros
