@@ -23,7 +23,7 @@ Este repositório apresenta uma aplicação interativa desenvolvida em Java que 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/trabalho-de-quimica.git
+   git clone https://github.com/seu-usuario/quimica.git
    ```
 
 2. **Compile o código:**
