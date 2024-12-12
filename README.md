@@ -23,7 +23,7 @@ Este repositório apresenta uma aplicação interativa desenvolvida em Java que 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/QUI_2024_Pilha.git
+   git clone https://github.com/seu-usuario/QUI_2024_Pilha-TOMBA_CARGA-.git
    ```
 
 2. **Compile o código:**
