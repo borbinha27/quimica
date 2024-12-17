@@ -80,3 +80,4 @@ Este repositório apresenta uma aplicação interativa desenvolvida em Java que 
 1. Arthur Gamba Borba
 2. Marcelo Cappelaro Macedo
 3. Lucas Davy de Medeiros
+4. Eliel Rodrigo Cordeiro da Rocha
